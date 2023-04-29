@@ -6,7 +6,7 @@ Wenn du eine Plugin oder ein Theme entwickelt hast, das du auch anderen Usern zu
 
 ## Voraussetzungen
 - Das Plugin oder das Theme muss sich in einem öffentlichen Github Repository befinden.
-- Das Repository muss ich in einer bestimmten Verzeichnisstruktur befinden. (siehe unten)
+- Das Repository muss sich in einer bestimmten Verzeichnisstruktur befinden. (siehe unten)
 
 ## Vordefinierte Struktur für das Quell-Repository
 Im Hauptverzeichnis muss sich der Quellcode und die folgenden Dateien befinden:
